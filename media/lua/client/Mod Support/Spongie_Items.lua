@@ -197,4 +197,17 @@ TweakItem("Base.Trousers_WhiteTINTTUCK","DisplayCategory","ClothLeg");
 TweakItem("Base.Trousers_ArmyServiceTUCK","DisplayCategory","ClothLeg");
 TweakItem("Base.Trousers_BlackTUCK","DisplayCategory","ClothLeg");
 TweakItem("Base.Trousers_NavyBlueTUCK","DisplayCategory","ClothLeg");
+
+--Missing Content
+--There are some items that are not listed on translation text file for some reason.
+TweakItem("Spongie.Jacket_PeaCoat","DisplayCategory","ClothBody");
+TweakItem("Spongie.Jacket_PeaCoatOPEN","DisplayCategory","ClothBody");
+TweakItem("Spongie.Jacket_Quilted","DisplayCategory","ClothBody");
+TweakItem("Spongie.Jacket_QuiltedOPEN","DisplayCategory","ClothBody");
+TweakItem("Spongie.Vest_Puffy","DisplayCategory","ClothBody");
+TweakItem("Spongie.Vest_PuffyOPEN","DisplayCategory","ClothBody");
+TweakItem("Spongie.Shirt_Quilted","DisplayCategory","ClothBody");
+TweakItem("Spongie.Shirt_QuiltedOPEN","DisplayCategory","ClothBody");
+TweakItem("Spongie.Shirt_QuiltedOPENROLL","DisplayCategory","ClothBody");
+TweakItem("Spongie.Shirt_QuiltedROLL","DisplayCategory","ClothBody");
 end
