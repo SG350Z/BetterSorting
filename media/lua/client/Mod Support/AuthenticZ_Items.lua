@@ -1190,4 +1190,79 @@ TweakItem(moduleName..".Pop3","DisplayCategory","FoodB");
 TweakItem(moduleName..".PopBottle","DisplayCategory","FoodB");
 TweakItem(moduleName..".GardenSaw","DisplayCategory","Tool");
 TweakItem(moduleName..".Saw","DisplayCategory","Tool");
+
+--Missing Contents
+
+	--ClothBack (Bags)
+	TweakItem(moduleName..".Bag_Packsport_Plain","DisplayCategory","ClothBack");
+	TweakItem(moduleName..".Bag_Packsport_Plain_Tier_1","DisplayCategory","ClothBack");
+	TweakItem(moduleName..".Bag_Packsport_Plain_Tier_2","DisplayCategory","ClothBack");
+	TweakItem(moduleName..".Bag_Packsport_Plain_Tier_3","DisplayCategory","ClothBack");
+	TweakItem(moduleName..".Bag_Packsport_Rim","DisplayCategory","ClothBack");
+	TweakItem(moduleName..".Bag_Packsport_Rim_Tier_1","DisplayCategory","ClothBack");
+	TweakItem(moduleName..".Bag_Packsport_Rim_Tier_2","DisplayCategory","ClothBack");
+	TweakItem(moduleName..".Bag_Packsport_Rim_Tier_3","DisplayCategory","ClothBack");
+	TweakItem(moduleName..".Bag_Schoolbag_Spiffo2","DisplayCategory","ClothBack");
+	TweakItem(moduleName..".Bag_Schoolbag_Spiffo2_Tier_1","DisplayCategory","ClothBack");
+	TweakItem(moduleName..".Bag_Schoolbag_Spiffo2_Tier_2","DisplayCategory","ClothBack");
+	TweakItem(moduleName..".Bag_Schoolbag_Spiffo2_Tier_3","DisplayCategory","ClothBack");
+
+	--ClothHead (Hats)
+	TweakItem(moduleName..".Hat_Soldier_Rebel","DisplayCategory","ClothHead");
+	TweakItem(moduleName..".Hat_Bonnet_Tied","DisplayCategory","ClothHead");
+	TweakItem(moduleName..".Hat_Bonnet_UnTied","DisplayCategory","ClothHead");
+	TweakItem(moduleName..".Hat_Soldier_Yankee","DisplayCategory","ClothHead");
+	TweakItem(moduleName..".Hat_CourtJester","DisplayCategory","ClothHead");
+	TweakItem(moduleName..".Hat_Court_Jester","DisplayCategory","ClothHead");
+	TweakItem(moduleName..".Hat_TopHat_AZ","DisplayCategory","ClothHead");
+	TweakItem(moduleName..".Hat_GraduationCap","DisplayCategory","ClothHead");
+	TweakItem(moduleName..".Hat_Graduation_Cap","DisplayCategory","ClothHead");
+
+	--ClothBody (Dress)
+	TweakItem(moduleName..".Dress_BallroomDress_Casual","DisplayCategory","ClothBody");
+	TweakItem(moduleName..".Dress_BallroomDress_Cute","DisplayCategory","ClothBody");
+	TweakItem(moduleName..".Dress_BallroomDress_Frilly","DisplayCategory","ClothBody");
+	TweakItem(moduleName..".Dress_BallroomDress_Kansas","DisplayCategory","ClothBody");
+	TweakItem(moduleName..".Dress_BallroomDress_Relaxed","DisplayCategory","ClothBody");
+	TweakItem(moduleName..".Dress_BallroomDress_Plaid","DisplayCategory","ClothBody");
+	TweakItem(moduleName..".Dress_BallroomDress_PlaidApron","DisplayCategory","ClothBody");
+	TweakItem(moduleName..".Dress_BallroomDress_PatternApron","DisplayCategory","ClothBody");
+	TweakItem(moduleName..".Dress_BallroomDress_Prairie","DisplayCategory","ClothBody");
+	TweakItem(moduleName..".Dress_BallroomDress_PrairieApron","DisplayCategory","ClothBody");
+	TweakItem(moduleName..".Dress_BallroomDress_Lavish","DisplayCategory","ClothBody");
+
+	--ClothBody (Jackets)
+	TweakItem(moduleName..".Jacket_Soldier_Rebel","DisplayCategory","ClothBody");
+	TweakItem(moduleName..".Jacket_Soldier_Yankee","DisplayCategory","ClothBody");
+	
+	--ClothBody (Suit, Shirt)
+	TweakItem(moduleName..".InvisibleSuit","DisplayCategory","ClothBody");
+	TweakItem(moduleName..".Shirt_UndershirtFancy","DisplayCategory","ClothBody");
+
+	--ClothLeg (Pants)
+	TweakItem(moduleName..".Trousers_Rebels","DisplayCategory","ClothLeg");
+	TweakItem(moduleName..".Trousers_Yankee","DisplayCategory","ClothLeg");
+	TweakItem(moduleName..".FormalPants","DisplayCategory","ClothLeg");
+
+	--ClothAcc (Belts)
+	TweakItem(moduleName..".Belt_AZ","DisplayCategory","ClothAcc");
+
+	--WepMelee
+	TweakItem(moduleName..".AuthenticIceAxe","DisplayCategory","WepMelee");
+	TweakItem(moduleName..".ChainsawOff","DisplayCategory","WepMelee");
+
+	--Tools
+	TweakItem(moduleName..".LighterAZ","DisplayCategory","Tool");
+
+	--Misc (Glowsticks)
+	TweakItem(moduleName..".AuthenticGlowstick_White_On","DisplayCategory","Misc");
+	TweakItem(moduleName..".AuthenticGlowstick_White","DisplayCategory","Misc");
+
+	--Junk (Balloons)
+	TweakItem(moduleName..".AuthenticBalloon_Teal","DisplayCategory","Junk");
+	TweakItem(moduleName..".AuthenticBalloonGroup_Teal","DisplayCategory","Junk");
+
+	--Collectibles
+	TweakItem(moduleName..".SubstitutionDoll","DisplayCategory","Collect");
+	TweakItem(moduleName..".SpiffoCherry","DisplayCategory","Collect");
 end
